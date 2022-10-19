@@ -12,7 +12,6 @@ import Sipping from './components/Sipping/Sipping';
 import PrivateRoute from './components/Route/PrivateRoute';
 
 
-
 function App() {
   const router = createBrowserRouter([
     {
